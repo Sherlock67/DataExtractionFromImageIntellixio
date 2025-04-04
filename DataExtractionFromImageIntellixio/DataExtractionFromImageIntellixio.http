@@ -1,0 +1,6 @@
+@DataExtractionFromImageIntellixio_HostAddress = http://localhost:5243
+
+GET {{DataExtractionFromImageIntellixio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
